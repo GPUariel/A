@@ -1,0 +1,5 @@
+{
+  "name": "Smart Quiz Crafter",
+  "description": "An intelligent exam generator that transforms your study materials into structured quizzes including multiple-choice, true/false, fill-in-the-blanks, and short answer questions.",
+  "requestFramePermissions": []
+}
